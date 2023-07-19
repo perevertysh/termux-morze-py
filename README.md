@@ -1,5 +1,5 @@
 # termux-morze-py
-python script wich use termux-api torch and vibration features to translate text into morze code sequence
+python script which use termux-api torch and vibration features to translate text into morze code sequence
 
 required termux app for android and termux-api package
 
